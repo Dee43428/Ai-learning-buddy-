@@ -12,4 +12,4 @@ A smart web application powered by Streamlit and Google's Gemini-2.5-Flash model
 * Python
 * Streamlit
 * Google Generative AI (Gemini API)
-* 
+
